@@ -8,7 +8,7 @@ int main()
         return 0;
 }
 
-/* gcc guess.c; ./a.out |  nc 103.237.98.32 25032
+/* gcc wh03-pwn02-part02.c; ./a.out |  nc 103.237.98.32 25032
 
 I have two secret numbers, I like you guessing them. Are you ready?
 
